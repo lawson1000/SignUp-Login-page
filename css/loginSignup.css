@@ -86,3 +86,6 @@ h6:after{
     padding: 19px;
     font-size: 150%;
 }
+#errorPassword{
+    display: none;
+}
